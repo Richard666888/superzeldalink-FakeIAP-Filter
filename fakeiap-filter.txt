@@ -73,7 +73,7 @@ HOST,chic.mtlab.meitu.com,Fake iAP Policy
 # Photoshop
 HOST,lcs-mobile-cops.adobe.io,Fake iAP Policy
 # Zing TV
-#HOST,api.tv.zing.vn,Fake iAP Policy
+HOST,api.tv.zing.vn,Fake iAP Policy
 # Lich Van Nien 2020 (Lich Viet)
 HOST,api.lichviet.org,Fake iAP Policy
 # QIYIVideo
@@ -101,7 +101,7 @@ HOST,api.gyrosco.pe,Fake iAP Policy
 HOST,api-kinemaster-assetstore.kinemasters.com,Fake iAP Policy
 HOST,api-kinemaster-assetstore.nexstreaming.com,Fake iAP Policy
 # YouTube Music
-#HOST,youtubei.googleapis.com,Fake iAP Policy
+HOST,youtubei.googleapis.com,Fake iAP Policy
 # Over
 HOST,api.overhq.com,Fake iAP Policy
 # Bright
