@@ -6,6 +6,8 @@ host, gdmf.apple.com, Fake iAP Policy
 host, updates-http.cdn-apple.com, Fake iAP Policy
 # 绕过证书过期
 host, ocsp.apple.com, Fake iAP Policy
+# Youtube
+host-suffix, ehg-youtube.hitbox.com, Fake iAP Policy
 #VideoStart
 HOST,testapps.videostarapp.com,Fake iAP Policy
 #Presco
@@ -108,6 +110,8 @@ HOST,api-kinemaster-assetstore.kinemasters.com,Fake iAP Policy
 HOST,api-kinemaster-assetstore.nexstreaming.com,Fake iAP Policy
 # YouTube Music
 HOST,youtubei.googleapis.com,Fake iAP Policy
+# Youtube
+host-suffix, ehg-youtube.hitbox.com, Fake iAP Policy
 # Over
 HOST,api.overhq.com,Fake iAP Policy
 # Bright
