@@ -1,5 +1,11 @@
 #PXX itunes
 HOST-KEYWORD,-buy.itunes.apple.com,Fake PXX Policy
+# 屏蔽iOS系统更新
+host, mesu.apple.com, Fake iAP Policy
+host, gdmf.apple.com, Fake iAP Policy
+host, updates-http.cdn-apple.com, Fake iAP Policy
+# 绕过证书过期
+host, ocsp.apple.com, Fake iAP Policy
 #VideoStart
 HOST,testapps.videostarapp.com,Fake iAP Policy
 #Presco
@@ -44,7 +50,7 @@ HOST,secure.istreamer.com,Fake iAP Policy
 #farfaria
 HOST, api.farfaria.com, Fake iAP Policy
 #Quantumult X bypass
-HOST, activation.crossutility.com, reject
+HOST, activation.crossutility.com, Fake iAP Policy
 #BabyBus
 HOST,pay.babybus.com,Fake iAP Policy
 #AutoCAD
